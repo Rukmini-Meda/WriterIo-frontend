@@ -1,3 +1,8 @@
+# WriterIo-frontend
+
+#### This repository consists of frontend for our project, WriterIo. The main repository (entire code at one place) can be found at [WriterIo](https://github.com/swathi-vennela/WriterIo). This is only used for deployment purposes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
